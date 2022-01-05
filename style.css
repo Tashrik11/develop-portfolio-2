@@ -14,7 +14,7 @@ section{
     padding: 10%;
 }
 .half-size img{
-    width: 80%;
+    width: 75%;
     padding-top: 2%;
 }
 .link{
@@ -28,4 +28,9 @@ section{
 .top-banner{
     background-image: url(tp.png);
     background-repeat: no-repeat;
+}
+.bottom-banner{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
