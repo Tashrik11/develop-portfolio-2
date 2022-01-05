@@ -11,10 +11,11 @@ section{
 .half-size{
     width: 50%;
     padding-top: 5%;
+    padding: 10%;
 }
 .half-size img{
-    width: 100%;
-    padding-top: 5%;
+    width: 80%;
+    padding-top: 2%;
 }
 .link{
     text-decoration: none;
