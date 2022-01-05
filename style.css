@@ -5,7 +5,7 @@ body{
 .name{
     color: blue;
 }
-section{
+.flexible{
     display: flex;
 }
 .half-size{
