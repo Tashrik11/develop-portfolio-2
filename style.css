@@ -34,3 +34,26 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    width: 50%;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 3%;
+} 
+.more-more{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bigger{
+    font-size: 50px;
+}
+#blue{
+    border-right: 5px solid;
+    border-image: linear-gradient(red ,tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
